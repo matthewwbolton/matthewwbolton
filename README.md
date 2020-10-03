@@ -1,4 +1,4 @@
-<img src="https://github.com/matthewwbolton/matthewwbolton_public/blob/main/Animated%20GIF-source.gif" alt="Video Loop of Particle JS Website I Made for My Personal README.md" width="500">
+<img src="https://github.com/matthewwbolton/matthewwbolton_public/blob/main/Animated%20GIF-source.gif?raw=true" alt="Video Loop of Particle JS Website I Made for My Personal README.md" width="500">
 <!--
 **matthewwbolton/matthewwbolton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
