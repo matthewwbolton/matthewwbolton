@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
     <title>Full-Stack Software Engineer - Matthew Bolton</title>
   </head>
   <body>
@@ -13,8 +14,48 @@
         height: 860px;
         width: 100%;
       }
+      #typewriter {
+        position: absolute;
+        font-size: 60px;
+        font-family: "B612", sans-serif;
+        font-weight: 700;
+        width: 800px;
+        margin: 350px 250px;
+        color: white;
+      }
     </style>
-    <div id="particles-js"></div>
+    <div id="particles-js">
+      <div id="typewriter"></div>
+    </div>
+
     <script src="particles.js"></script>
+    <script>
+      const instance = new Typewriter("#typewriter", {
+        loop: true,
+      });
+
+      instance
+        .typeString("Hello World!")
+        .pauseFor(1000)
+        .deleteAll()
+        .typeString("I am Matthew Bolton.")
+        .pauseFor(1000)
+        .deleteChars(15)
+        .typeString("a Full-Stack Software Engineer.")
+        .pauseFor(1000)
+        .deleteChars(29)
+        .typeString("always open to make new connections!")
+        .pauseFor(1000)
+        .deleteAll()
+        .typeString("Check out my work at<br>github.com/matthewwbolton")
+        .pauseFor(1000)
+        .deleteAll()
+        .typeString(
+          "Connect with me on LinkedIn at linkedin.com/in/matthewwbolton "
+        )
+        .pauseFor(1000)
+        .deleteAll()
+        .start();
+    </script>
   </body>
 </html>
