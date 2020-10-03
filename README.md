@@ -1,5 +1,4 @@
-<img src = "https://media.giphy.com/media/ZI8N8caaDLxeJHlUsV/giphy.gif">
-
+<iframe src="https://giphy.com/embed/ZI8N8caaDLxeJHlUsV" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ZI8N8caaDLxeJHlUsV">via GIPHY</a></p>
 <!--
 **matthewwbolton/matthewwbolton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
