@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ZI8N8caaDLxeJHlUsV/giphy-downsized.gif">
+<img src="https://media.giphy.com/media/ZI8N8caaDLxeJHlUsV/giphy.mp4">
 <!--
 **matthewwbolton/matthewwbolton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
