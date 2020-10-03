@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/GZJBgMGuw4cca9OS7P/html5">
+<img src="https://github.com/matthewwbolton/matthewwbolton_public/blob/main/Animated%20GIF-source.gif">
 <!--
 **matthewwbolton/matthewwbolton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
