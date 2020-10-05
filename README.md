@@ -1,4 +1,4 @@
-<img src="https://github.com/matthewwbolton/matthewwbolton_public/blob/main/Screen%20Recording%20-%20480.gif">
+<img src="https://github.com/matthewwbolton/matthewwbolton_public/blob/main/Full%20Resolution%20Video%20Loop%20for%20GitHub%20personal%20README.md.gif">
 <!--
 **matthewwbolton/matthewwbolton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
