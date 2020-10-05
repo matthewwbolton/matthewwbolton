@@ -35,17 +35,19 @@
       });
 
       instance
+        .changeDelay(1)
+        .changeDeleteSpeed(1)
         .typeString("Hello World!")
-        .pauseFor(500)
+        .pauseFor(250)
         .deleteAll()
         .typeString("I am Matthew Bolton.")
-        .pauseFor(500)
+        .pauseFor(250)
         .deleteChars(15)
         .typeString("a Full-Stack Software Engineer.")
-        .pauseFor(500)
+        .pauseFor(250)
         .deleteChars(31)
         .typeString("always open to make new connections!")
-        .pauseFor(500)
+        .pauseFor(250)
         .deleteAll()
         .pauseFor(2000)
         .start();
