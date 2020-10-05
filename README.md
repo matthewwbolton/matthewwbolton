@@ -41,6 +41,9 @@ Tech Tools and Languages:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <br>
+
+<img align="left" alt="shun's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=matthewwbolton&show_icons=true&hide_border=true&theme=vue" />
+
 Connect with me:<br>
 
 <a href="https://twitter.com/matthew_the_dev" rel="nofollow">
