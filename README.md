@@ -1,10 +1,12 @@
 <img src="https://github.com/matthewwbolton/matthewwbolton_public/blob/main/Full%20Resolution%20Video%20Loop%20for%20GitHub%20personal%20README.md.gif" alt="Video Loop of a typrewriter overlay to a particleJS background displaying Bio info for Matthew Bolton.">
 
-Tech Tools and Prefernces:
+<!-- Tech Tools and Prefernces:
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> -->
 
 <!--
 **matthewwbolton/matthewwbolton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
