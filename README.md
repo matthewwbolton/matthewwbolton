@@ -16,9 +16,9 @@
 Connect with me:
 
 <a href="https://twitter.com/matthew_the_dev" rel="nofollow">
-<img src="https://camo.githubusercontent.com/eacbc49510155d9f49af49e2089d85ce54edd103/68747470733a2f2f696d672e69636f6e73382e636f6d2f616e64726f69642f32342f3030303030302f747769747465722e706e67" height="20px" width="20px">
+<img src="https://camo.githubusercontent.com/eacbc49510155d9f49af49e2089d85ce54edd103/68747470733a2f2f696d672e69636f6e73382e636f6d2f616e64726f69642f32342f3030303030302f747769747465722e706e67" height="20px" width="20px" data-canonical-src="https://img.icons8.com/android/24/000000/twitter.png">
 </a>
 
 <a href="https://www.linkedin.com/in/matthewwbolton">
-<img src="https://camo.githubusercontent.com/4971ee27be84e34304b82f11115d05c9c45b4b5c/68747470733a2f2f696d672e69636f6e73382e636f6d2f616e64726f69642f32342f3030303030302f6c696e6b6564696e2e706e67" height="20px" width="20px" >
+<img src="https://camo.githubusercontent.com/4971ee27be84e34304b82f11115d05c9c45b4b5c/68747470733a2f2f696d672e69636f6e73382e636f6d2f616e64726f69642f32342f3030303030302f6c696e6b6564696e2e706e67" height="20px" width="20px" data-canonical-src="https://img.icons8/.com/android/24/000000/linkedin.png" >
 </a>
